@@ -1,0 +1,103 @@
+//-----------
+//  Margins
+//-----------
+
+//
+// margin
+//
+
+%margin {
+  margin: $base-spacing-unit;
+}
+
+%margin--top {
+  margin-top: $base-spacing-unit;
+}
+
+%margin--right {
+  margin-right: $base-spacing-unit;
+}
+
+%margin--bottom {
+  margin-bottom: $base-spacing-unit;
+}
+
+%margin--left {
+  margin-left: $base-spacing-unit;
+}
+
+%margin--ends {
+  margin-top: $base-spacing-unit;
+  margin-bottom: $base-spacing-unit;
+}
+
+%margin--sides {
+  margin-right: $base-spacing-unit;
+  margin-left: $base-spacing-unit;
+}
+
+// Halfs
+
+%margin-half {
+  margin: $base-spacing-unit / 2;
+}
+
+%margin-half--top {
+  margin-top: $base-spacing-unit / 2;
+}
+
+%margin-half--right {
+  margin-right: $base-spacing-unit / 2;
+}
+
+%margin-half--bottom {
+  margin-bottom: $base-spacing-unit / 2;
+}
+
+%margin-half--left {
+  margin-left: $base-spacing-unit / 2;
+}
+
+%margin-half--ends {
+  margin-top: $base-spacing-unit / 2;
+  margin-bottom: $base-spacing-unit / 2;
+}
+
+%margin-half--sides {
+  margin-right: $base-spacing-unit / 2;
+  margin-left: $base-spacing-unit / 2;
+}
+
+//
+// margin0
+//
+
+%margin0 {
+  margin: 0;
+}
+
+%margin0--top {
+  margin-top: 0;
+}
+
+%margin0--right {
+  margin-right: 0;
+}
+
+%margin0--bottom {
+  margin-bottom: 0;
+}
+
+%margin0--left {
+  margin-left: 0;
+}
+
+%margin0--ends {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+%margin0--sides {
+  margin-right: 0;
+  margin-left: 0;
+}
